@@ -9,3 +9,11 @@ If one player places three of the same marks in a row, the player wins.
 If the spaces are all filled and there is no winner, the game ends in a draw.
 
 ![alt text](https://followtutorials.com/wp-content/uploads/2019/10/tic-tac-toe_python.jpg)
+
+To begin the implementation in Python, make sure you have the following tutorials covered:-
+
+- Python Numbers
+- Python Functions
+- Python if…else Statement
+
+
